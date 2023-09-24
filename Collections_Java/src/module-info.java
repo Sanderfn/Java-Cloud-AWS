@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Collections_Java {
-}
